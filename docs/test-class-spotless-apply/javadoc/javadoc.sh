@@ -1,0 +1,1 @@
+/opt/hostedtoolcache/Java_Adopt_jdk/11.0.33-10/x64/bin/javadoc @options @packages
